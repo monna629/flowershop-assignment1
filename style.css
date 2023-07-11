@@ -168,3 +168,52 @@
     margin-top: 100px;
     margin-bottom: 100px;
 }
+/* sec3 ends */
+.sec4-image{
+    border-radius: 5px;
+    box-shadow: 3px 5px 10px 5px rgba(229, 84, 115, 0.137);
+    margin-bottom: 128px;
+}
+/* sec4 ends */
+.sec5-div-container{
+    position: relative;
+    width: 1440px;
+    height: 450px;
+    margin-left: 240px;
+    margin-top: 128px;
+    margin-bottom: 128px;
+    text-align: center;
+}
+.bg{
+    position: absolute;
+}
+#sec5-description{
+
+}
+.sec5-h3{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 250px;
+    margin-top: 122px;
+    margin-bottom: 16px;
+}
+.sec5-p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 270px;
+    margin-bottom: 48px;
+}
+.form-div{
+    width: 600px;
+    height: 50px;
+    padding: 14px 303px 14px 22px;
+
+  background-color: white;
+  color: rgba(39, 39, 39, 0.60) ;
+  border: none;
+  border-radius: 8px;
+  margin-left: 280px;
+  padding-right: 16px;
+}
